@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "horsefire94.aternos.me",
+    "ip": "cuis.aternos.host:47340",
     "port": 47340,
     "version": "",
     "try-creative": false
